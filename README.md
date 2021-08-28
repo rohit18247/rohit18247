@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohit18247
-- 📫 How to reach me via rohit18247@iiitd.ac.in.
+- 📫 Reach me via : rohit18247@iiitd.ac.in.
 
 <!---
 rohit18247/rohit18247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

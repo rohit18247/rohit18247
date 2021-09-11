@@ -1,4 +1,4 @@
-- 👋 Hi, I am Rohit! I have completed my master's from IIIT-Delhi. I have worked on multiple data analysis projects as well as extensively worked on honing data visualization and data story telling skills.  
+- 👋 Hi, I am Rohit! I have completed my master's from IIIT-Delhi. I have worked on multiple data analysis projects as well as extensively worked on honing data visualization and story telling skills.  
 - 📫 Reach me via : rohit18247@iiitd.ac.in.
 
 <!---
